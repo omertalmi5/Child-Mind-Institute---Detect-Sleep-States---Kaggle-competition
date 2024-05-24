@@ -5,3 +5,5 @@ This repository is dedicated to the "Child-Mind-Institute - Detect Sleep States"
 ## Results
 Private score: 0.752
 Public score: 0.706
+
+![Model Architecture](images/model.drawio.png)
